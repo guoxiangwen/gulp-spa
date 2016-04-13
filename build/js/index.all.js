@@ -1,0 +1,1 @@
+"use strict";console.log("fuck1"),console.log("index2");

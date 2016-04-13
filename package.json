@@ -1,0 +1,37 @@
+{
+  "name": "marry-pic",
+  "version": "1.0.0",
+  "description": "marry me full page application",
+  "main": "entry.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoxiangwen/marry-pic.git"
+  },
+  "keywords": [
+    "fullpage"
+  ],
+  "author": "郭先生",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoxiangwen/marry-pic/issues"
+  },
+  "homepage": "https://github.com/guoxiangwen/marry-pic#readme",
+  "dependencies": {
+    "fullpage.js": "^2.7.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.1",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-eslint": "^2.0.0",
+    "gulp-inject": "^4.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
