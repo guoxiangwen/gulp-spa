@@ -1,3 +1,4 @@
-# marry-pic
+# Base on Gulp&NPM scripts to build spa application
 
-#marry me 
+## how to start?
+build&start project with cmd `npm start`
