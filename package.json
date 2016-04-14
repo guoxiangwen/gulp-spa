@@ -4,7 +4,9 @@
   "description": "marry me full page application",
   "main": "entry.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "prestart": "cnpm install",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
